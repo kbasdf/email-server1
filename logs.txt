@@ -1,0 +1,6 @@
+to email:ramesh@wipro1.com, response : bounced
+to email:ramesh@wipro.com, response : bounced
+to email:sushant.s@wipro.com, response : bounced
+to email:kashish@alpadd.tech, response : bounced
+to email:kashish@alphasource.co.in, response : not bounce
+to email:kashishbhasin49@gmail.com, response : not bounce
